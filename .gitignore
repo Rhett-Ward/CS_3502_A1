@@ -1,0 +1,14 @@
+# Compiled Files
+*.o
+*.out
+hello
+employee
+logwriter
+
+# log files
+*.log
+
+# Editor Backups
+*~
+*.swp
+
